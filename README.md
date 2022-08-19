@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palomalagutti
 - 👀 I’m interested in games, movies, drawing
-- 🌱 I’m currently learning HTML5, CSS , JS , Java
+- 🌱 I’m currently learning HTML5, CSS , JS , Java , Python
 - 💞️ I’m looking to collaborate on my own games
 - 📫 How to reach me palomalagutti@gmail.com
 
